@@ -15,7 +15,7 @@ def split_date_and_location(date_and_location):
 event_data = []
 place = 'New%20Delhi'
 start_date = datetime(2024, 1, 31)
-end_date = datetime(2024, 2, 5)
+end_date = datetime(2024, 12, 31)
 
 current_date = start_date
 
@@ -27,6 +27,9 @@ while current_date <= end_date:
 
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
+
+        with open('Row_Data.html', 'w', encoding='utf-8') as html_file:
+            html_file.write(response.text)
 
         events = soup.find_all('div', class_='psdt')
 
