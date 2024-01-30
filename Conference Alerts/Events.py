@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 event_data = []
-limit_events = 1000
+limit_events = 200
 api_url = f"https://www.conferencealerts.in/advance_search/?limit_events_p={limit_events}"
 
 body = {

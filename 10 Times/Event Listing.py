@@ -32,5 +32,5 @@ if response.status_code == 200:
 #     with open('Event_Data.json', 'w') as json_file:
 #         json.dump(event_data, json_file, indent=2)
     
-# else:
-#     print(f"Error: {response.status_code}")
+else:
+    print(f"Error: {response.status_code}")

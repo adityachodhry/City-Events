@@ -1,42 +1,4002 @@
 [
   {
-    "topic_name": "National Conference on Industrial Civil and Mechanical Engineering",
-    "date": "31st Jan 2024",
-    "location": "New Delhi,India"
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Business Management, Economics & Social Science",
-    "date": "31st Jan 2024",
-    "location": "New Delhi,India"
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology",
-    "date": "31st Jan 2024",
-    "location": "New Delhi,India"
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Advances in Electrical, Electronics & Computer Engineering",
-    "date": "31st Jan 2024",
-    "location": "New Delhi,India"
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Industrial Civil and Mechanical Engineering",
-    "date": "01st Feb 2024",
-    "location": "New Delhi,India"
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Business Management, Economics & Social Science",
-    "date": "01st Feb 2024",
-    "location": "New Delhi,India"
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology",
-    "date": "01st Feb 2024",
-    "location": "New Delhi,India"
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
   },
   {
-    "topic_name": "National Conference on Advances in Electrical, Electronics & Computer Engineering",
-    "date": "01st Feb 2024",
-    "location": "New Delhi,India"
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics and Automation (ICRA)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Robotics and Mechatronics (ICARM)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechatronics and Automation (ICMA)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Robot Conference (WRC)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robot and Human Interactive Communication (RO-MAN)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Intelligent Robots and Systems (IROS)",
+    "date": "31 Jan",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechatronics, Robotics and Automation (ICMRA)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Economics and Finance (ICBEF)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Emerging Trends in Electronics, Electrical and Mechanical Engineering (ICEEME)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Green Technology (ICESGT)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Law, Human Rights and Cultural Studies (ICLHRCS)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Biological Engineering (ICMBE)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Science, Technology, Engineering and Management (ICRASTEM)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Chemical, Agricultural, Biological and Environmental Sciences (ICCABES)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Education, Business, Humanities and Social Sciences (ICEBHS)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical, Pharmaceutical and Health Sciences (ICMPH)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Aeronautics, Mechanics and Mechatronics (ICRAMM)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Science, Engineering & Technology (ICSET)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Oil, Gas and Petrochemistry (ICOGP)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Chemical, Agricultural, Biological, Environment and Life Science (ICCABEL)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Physical Education and Sport Science (ICPESS)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wireless Sensor Networks, Ubiquitous Computing and Applications (ICWUA)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "01 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nano science and Nanotechnology (IC2N)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management, Humanities and Social Science (ICBMHSS)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Electrical and Electronics Engineering (ICAEEE)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial and Production Engineering (ICIPE)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Renewable, Environment and Agriculture (ICREA)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Mechanical Engineering and Civil (ICRIMEC)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Information Technology (ICSEIT)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Machine Learning and Big Data Engineering (ICAIMLBDE)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Biological, Agricultural & Environmental Science (ICBAES)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Innovative Research Practices in Economics, Business and Social Sciences (ICIRPEBS)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Manufacturing, Industrial and Civil Engineering (ICMMICE)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Electrical and Power Engineering (ICRDEPE)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Smart Technology, Communication and Electronics Engineering (ICRMTCEE)",
+    "date": "04 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Computer Science and Information Technology (ICACSIT)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Electronics and Data Communication (ICEEDC)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical And Production Engineering (ICMPE)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big data, Machine Learning and IOT (ICBMI)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Global Congress on Plant Biology and Biotechnology (GCPBB)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Obesity, Weight Management and Nutrition Research (ICOBWN)",
+    "date": "04 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Science, Technology and Engineering (ICSTE)",
+    "date": "08 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "08 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "09 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Health and Medical Science (ICAHMS)",
+    "date": "09 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Management, Business and Finance (ICAMBF)",
+    "date": "09 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Multidisciplinary Research (ICMR)",
+    "date": "09 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Applied Science Engineering and Technology (WCASET)",
+    "date": "09 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "9 Feb Delhi Ophthalmological Society Conference",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Innovation (ICBMSI)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference On Electrical and Electronics Engineering (ICEEE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Forestry Food and Sustainable Agriculture (ICFFSA)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical & Production Engineering (ICMPE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Computer Science and Information Technology (ICRACSIT)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Research in Science, Engineering and Technology (ICRSET)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Recent Advances in Science, Engineering, Technology and Management (NCRASETM)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment and Life Science (ICELS)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Virology (ICV)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Climate Change (ICCC)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aquaculture and Fisheries Technology (ICAFT)",
+    "date": "11 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Solar Power Technology (ICSPT)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mechanical, Civil, and Construction Engineering (ICAMCCE)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, IoT, Cyber Security and Information Technology (ICBDICSIT)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Humanities, Social Science and Business Management (ICHSSBM)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Communication Technology, Electronics, and Electrical Engineering (ICRRCTEEE)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Artificial Intelligence and Computer Engineering (ICSTAICE)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial, Production & Systems Engineering (ICIPSE)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Advanced Energy Materials and Research (ICAEMR)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Green Energy and Technology (ICGET)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International conference on Law and Society (ICLS)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Management, Economics & Social Science (ICMESS)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Medical & Health Science (ICMHS)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Robotics and Smart Manufacturing (ICROSMA)",
+    "date": "15 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1509th International Conference on Science, Engineering & Technology (ICSET)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management, Humanities and Social Science (ICBMHSS)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Electrical and Electronics Engineering (ICAEEE)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial and Production Engineering (ICIPE)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Renewable, Environment and Agriculture (ICREA)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Mechanical Engineering and Civil (ICRIMEC)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "18 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Information Technology (ICSEIT)",
+    "date": "19 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Health Science and Medicine (ICHSM)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "21 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "24 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Risk and Climate Change (ICER2C)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "25 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aerospace and Aerodynamics (ICAA)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Science Engineering and Technology (WCSET)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Pharma Industry and Medical Devices (WCPIMD)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Sport Science and Physical Education (ICSSPE)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Arts and Humanities (ICSAH)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Economics, Finance and Business Management (ICEFBM)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Covid-19 and Its Impact on Mental Health (IRCCIMH)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Latest Research on Corona Virus and its Vaccine (ICRCVV)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Research International Conference on Medical, Medicine and Health Science (RICMMHS)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Science Technology, Engineering and Management (IRCSTEM)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Webinar on Multidisciplinary Research (IWMR)",
+    "date": "25 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Communication and Network Engineering (ICCNE)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Science (ICBMSS)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental, Food, Agriculture and Bio-Technology (ICEFABT)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Internet of Things, Big Data Analytics and Information Technology (ICITBDIT)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Civil, Mechanical, Production and Industrial Engineering (ICMPIE)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent advancement in Medical Education, Nursing, and Health Sciences (ICRAMNH)",
+    "date": "26 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Electrical and Electronics Engineering (ICSTEEE)",
+    "date": "28 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "28 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "28 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "28 Feb",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "28 Feb",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "World Robot Conference (WRC)",
+    "date": "08 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "08 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "09 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Health and Medical Science (ICAHMS)",
+    "date": "09 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Management, Business and Finance (ICAMBF)",
+    "date": "09 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Multidisciplinary Research (ICMR)",
+    "date": "09 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Applied Science Engineering and Technology (WCASET)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Innovation (ICBMSI)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference On Electrical and Electronics Engineering (ICEEE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Forestry Food and Sustainable Agriculture (ICFFSA)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical & Production Engineering (ICMPE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Computer Science and Information Technology (ICRACSIT)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Research in Science, Engineering and Technology (ICRSET)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Recent Advances in Science, Engineering, Technology and Management (NCRASETM)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment and Life Science (ICELS)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Virology (ICV)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Climate Change (ICCC)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aquaculture and Fisheries Technology (ICAFT)",
+    "date": "11 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Solar Power Technology (ICSPT)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Second Annual Session on the International Conference 2024 on Women Empowerment",
+    "date": "15 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mechanical, Civil, and Construction Engineering (ICAMCCE)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, IoT, Cyber Security and Information Technology (ICBDICSIT)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Humanities, Social Science and Business Management (ICHSSBM)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Communication Technology, Electronics, and Electrical Engineering (ICRRCTEEE)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Artificial Intelligence and Computer Engineering (ICSTAICE)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial, Production & Systems Engineering (ICIPSE)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Civil and Environmental Engineering (I2C2E)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Arts, Education and Social Science (ICAES)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Applied Physics and Mathematics (ICAPM)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Chemical and Biochemical Engineering (ICCBE)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Communication and Signal Processing (ICCSP)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Economics and Finance Research (ICEFR)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1651st International Conference on Internet Technologies and Society (ICITS)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Medical and Biosciences (ICMBS)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Power Control and Embedded System (ICPCES)",
+    "date": "15 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Science, Technology, Engineering and Management (ICSTEM)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management, Humanities and Social Science (ICBMHSS)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Electrical and Electronics Engineering (ICAEEE)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial and Production Engineering (ICIPE)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Renewable, Environment and Agriculture (ICREA)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Mechanical Engineering and Civil (ICRIMEC)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "18 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Information Technology (ICSEIT)",
+    "date": "19 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nursing and Health Science (ICNH)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "21 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment and Climate Change (ICECC)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Summit on Environment Protection and Climate Change (ISEPCC)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Climate Change Impacts and Responses (ICCCIR)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Sustainability and Climate Change (ICESCC)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Climate Change and Human Health Impacts (I3C2HI)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment and Life Science (ICELS)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Risk and Climate Change (ICER2C)",
+    "date": "24 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Annual Climate Change Conference (A3C)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "25 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aerospace and Aerodynamics (ICAA)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Science Engineering and Technology (WCSET)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Pharma Industry and Medical Devices (WCPIMD)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Sport Science and Physical Education (ICSSPE)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Arts and Humanities (ICSAH)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Economics, Finance and Business Management (ICEFBM)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Covid-19 and Its Impact on Mental Health (IRCCIMH)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Latest Research on Corona Virus and its Vaccine (ICRCVV)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Research International Conference on Medical, Medicine and Health Science (RICMMHS)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Science Technology, Engineering and Management (IRCSTEM)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Webinar on Multidisciplinary Research (IWMR)",
+    "date": "25 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Communication and Network Engineering (ICCNE)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Science (ICBMSS)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental, Food, Agriculture and Bio-Technology (ICEFABT)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Internet of Things, Big Data Analytics and Information Technology (ICITBDIT)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Civil, Mechanical, Production and Industrial Engineering (ICMPIE)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent advancement in Medical Education, Nursing, and Health Sciences (ICRAMNH)",
+    "date": "26 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Electrical and Electronics Engineering (ICSTEEE)",
+    "date": "28 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "28 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "28 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "28 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "28 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "28 Mar",
+    "location": "Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics and Automation (ICRA)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1705th International Conference on Accounting and Finance (ICAF)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1711th International Conference on Chemical and Biochemical Engineering (ICCBE)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1711th International Conference on Education and E-Learning (ICEEL)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1718th International Conference on Economics, Management and Social Study (ICEMSS)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1718th International Conference on Environment and Natural Science (ICENS)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1724th International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1718th International Conference on Recent Innovations in Engineering and Technology (ICRIET)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1717th International Conference on Science and Innovative Engineering (ICSIE)",
+    "date": "29 Mar",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1656th International Conference on Vehicular, Mobile and Wearable Technology (ICVMWT)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "02 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "03 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Health and Medical Science (ICAHMS)",
+    "date": "03 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Management, Business and Finance (ICAMBF)",
+    "date": "03 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Multidisciplinary Research (ICMR)",
+    "date": "03 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Applied Science Engineering and Technology (WCASET)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Innovation (ICBMSI)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference On Electrical and Electronics Engineering (ICEEE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Forestry Food and Sustainable Agriculture (ICFFSA)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical & Production Engineering (ICMPE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Computer Science and Information Technology (ICRACSIT)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Medical, Medicine and Health Sciences (ICRAMMHS)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Research in Science, Engineering and Technology (ICRSET)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Recent Advances in Science, Engineering, Technology and Management (NCRASETM)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment and Life Science (ICELS)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Virology (ICV)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Climate Change (ICCC)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aquaculture and Fisheries Technology (ICAFT)",
+    "date": "05 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Solar Power Technology (ICSPT)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mechanical, Civil, and Construction Engineering (ICAMCCE)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, IoT, Cyber Security and Information Technology (ICBDICSIT)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Humanities, Social Science and Business Management (ICHSSBM)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Communication Technology, Electronics, and Electrical Engineering (ICRRCTEEE)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Artificial Intelligence and Computer Engineering (ICSTAICE)",
+    "date": "09 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial, Production & Systems Engineering (ICIPSE)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management, Humanities and Social Science (ICBMHSS)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Electrical and Electronics Engineering (ICAEEE)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial and Production Engineering (ICIPE)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Renewable, Environment and Agriculture (ICREA)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Mechanical Engineering and Civil (ICRIMEC)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "12 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Information Technology (ICSEIT)",
+    "date": "13 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nursing and Health Science (ICNH)",
+    "date": "14 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Pharma and Food (ICPAF)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1775th International Conference on Advances in Business Management and Information Technology (ICABMIT)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1764th IIER International Conference on Applied Physics and Mathematics (ICAPM)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1763rd International Conferenceon Chemical and Biochemical Engineering (ICCBE)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1664th International Conference on Law and Political Science (ICLPS)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1772nd International Conference on Natural Science and Environment (ICNSE)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1690th International Conference on Psychology, Language and Teaching (ICPLT)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1766th International Conference on Recent Advances in Medical Science (ICRAMS)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1759th International Conference on Science, Innovation and Management (ICSIM)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1771st International Conference on Social Science and Economics (ICSSE)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1771st International Conference on Recent Innovations in Engineering and Technology (ICRIET)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "15 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aerospace and Aerodynamics (ICAA)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Science Engineering and Technology (WCSET)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Pharma Industry and Medical Devices (WCPIMD)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Sport Science and Physical Education (ICSSPE)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Arts and Humanities (ICSAH)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Economics, Finance and Business Management (ICEFBM)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Covid-19 and Its Impact on Mental Health (IRCCIMH)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Latest Research on Corona Virus and its Vaccine (ICRCVV)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Research International Conference on Medical, Medicine and Health Science (RICMMHS)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Science Technology, Engineering and Management (IRCSTEM)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Webinar on Multidisciplinary Research (IWMR)",
+    "date": "19 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Communication and Network Engineering (ICCNE)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Science (ICBMSS)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental, Food, Agriculture and Bio-Technology (ICEFABT)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Internet of Things, Big Data Analytics and Information Technology (ICITBDIT)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Civil, Mechanical, Production and Industrial Engineering (ICMPIE)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent advancement in Medical Education, Nursing, and Health Sciences (ICRAMNH)",
+    "date": "20 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Electrical and Electronics Engineering (ICSTEEE)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "22 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Industrial and Production Engineering (ICMIPE)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Business Management and Information Science (ICABMIS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical, Electronics & Computer Science (ICEECS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Networking, Communication and Computing Technology (ICNCCT)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Engineering and Technology (ICRASET)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Covid-19 and Its Impact on Mental Health (IRCCIMH)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Latest Research on Corona Virus and its Vaccine (ICRCVV)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Research International Conference on Medical, Medicine and Health Science (RICMMHS)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Science Technology, Engineering and Management (IRCSTEM)",
+    "date": "26 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Webinar on Multidisciplinary Research (IWMR)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Advanced Energy Materials and Research (ICAEMR)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Green Energy and Technology (ICGET)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International conference on Law and Society (ICLS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Management, Economics & Social Science (ICMESS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Medical & Health Science (ICMHS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Robotics and Smart Manufacturing (ICROSMA)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1553rd International Conference on Science, Engineering & Technology (ICSET)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "29 Apr",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "02 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "03 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Health and Medical Science (ICAHMS)",
+    "date": "03 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Management, Business and Finance (ICAMBF)",
+    "date": "03 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Multidisciplinary Research (ICMR)",
+    "date": "03 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Applied Science Engineering and Technology (WCASET)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "05 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management, Humanities and Social Science (ICBMHSS)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Electrical and Electronics Engineering (ICAEEE)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial and Production Engineering (ICIPE)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Renewable, Environment and Agriculture (ICREA)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Mechanical Engineering and Civil (ICRIMEC)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics, Machine Learning and Artificial Intelligence (ICRMLAI)",
+    "date": "12 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Information Technology (ICSEIT)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1757th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4E)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1767th International conferences on Engineering and Natural Science (ICENS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1767th International Conference on Economics and Social Science (ICESS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1765th International Conference on Food and Agricultural Engineering (ICFAE)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1651st International Conference on Food Microbiology and Food Safety (ICFMFS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1764th International Conference on Innovative Engineering Technologies (ICIET)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1773rd International Conferences on Medical and Health Science (ICMHS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1758th International Conferences on Metallurgy Technology and Materials (ICMTM)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1769th International Conference on Science, Technology and Management (ICSTM)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1697th International Conference on Tourism, Transport, and Logistics (ICTTL)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "15 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Research in Computer Science and Information Technology (ICARCSIT)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Construction, Mechanical and Industrial Engineering (ICCMIE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical Engineering and Control Technologies (ICEECT)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Machine learning Big data management Cloud and Computing (ICMBDC)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Signal processing, Communication and Electronics Engineering (ICSPCEE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Humanities and Business Management (ICSSHBM)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advanced research on Science, Engineering and Technology (NCARSET)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture (ICAG)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Fisheries And Aquaculture (ICFA)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Gas, Oil and Petroleum Engineering (ICGOP)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Integrated Natural Disaster Management (ICINDM)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Linguistics and English Literature Linguistics (ICLELL)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nutrition & Health (ICNH)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Re-thinking Gender and Sexuality (ICRGS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Disability & Rehabilitation Conference (WDRC)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Industrial Electronics (ICCSIE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Economics, Finance and Social Sciences (ICGBEFSS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical Engineering and Electrical Systems (ICMEES)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanotechnology, Renewable Materials Engineering & Environmental Engineering (ICNRMEEE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Artificial Intelligence and Computer Science (ICAAICS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Industrial Engineering and Production Technology (ICIEPT)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Wearable Technology, Industrial Electronics and Electrical Engineering (ICWTIEEE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Global Business, Leadership and Social Sciences (ICGBLSS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Aerospace and Aerodynamics (ICAA)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Science Engineering and Technology (WCSET)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "World Conference on Pharma Industry and Medical Devices (WCPIMD)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Sport Science and Physical Education (ICSSPE)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Arts and Humanities (ICSAH)",
+    "date": "19 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Economics, Finance and Business Management (ICEFBM)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Social Science (ICBMSS)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Computer Science, Machine Learning and Artificial Intelligence (ICCSMLAI)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental, Food, Agriculture and Bio-Technology (ICEFABT)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Internet of Things, Big Data Analytics and Information Technology (ICITBDIT)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Civil, Mechanical, Production and Industrial Engineering (ICMPIE)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent advancement in Medical Education, Nursing, and Health Sciences (ICRAMNH)",
+    "date": "20 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Smart Technology, Electrical and Electronics Engineering (ICSTEEE)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "22 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Industrial and Production Engineering (ICMIPE)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Business Management and Information Science (ICABMIS)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Electrical, Electronics & Computer Science (ICEECS)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Networking, Communication and Computing Technology (ICNCCT)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Engineering and Technology (ICRASET)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Business Management and Humanities (ICBEMH)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Innovations in Computer Science, Engineering and Technology (ICRICSET)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Food Technology, Agriculture and Fisheries (ICFTAF)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Biotechnology (ICESB)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Educational Technology, Learning and Social Science (ICETLSS)",
+    "date": "26 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mechanical, Aerospace and Production Engineering (ICMAPE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Civil and Environmental Engineering (I2C2E)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Arts, Education and Social Science (ICAES)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Applied Physics and Mathematics (ICAPM)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Chemical and Biochemical Engineering (ICCBE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Communication and Signal Processing (ICCSP)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Economics and Finance Research (ICEFR)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1696th International Conference on Internet Technologies and Society (ICITS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Medical and Biosciences (ICMBS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Power Control and Embedded System (ICPCES)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1754th International Conference on Power Control and Embedded System (ICPCES)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence, Robots and Mechanical Engineering (ICAIRME)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Control system, power and electrical engineering (ICCSPEE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environment, Agriculture and Biotechnology (ICEABT)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical and Health Sciences (ICMHS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Science, Technology & Engineering (ICRASTE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Developments in Social Science and Business Management (ICRDSSBM)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Software Engineering and Computer Science (ICSECS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Research Conference on Arts, Commerce, and Business Management (IRCACBM)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data and Smart Computing (ICBDSC)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Astronomy, Astrophysics, Space Science (ICAASS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Big Data, Smart Computing and Computer Science (ICBDSCC)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Social Science, Language, Literature and Education (ICSSLLE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Leadership & Business Management (ICSSLBM)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Electrical, Electronics & Computer Engineering (NCAEECE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Advances in Science, Agriculture, Environmental & Biotechnology (NCASAEB)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Business Management, Economics & Social Science (NCBMESS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "National Conference on Industrial Civil and Mechanical Engineering (NCICME)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Economics, Business Management & Social Sciences (IACEBMSS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Agriculture, forestry, Biotechnology and Food Science (ICAFBFS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advances in Software and Computing Technologies (ICASCT)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Basic and Applied Sciences (ICBAS)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Innovation, Culture, and Education (ICLICE)",
+    "date": "29 May",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Engineering and Technology (ICRAET)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Behaviour Physiology and Genetics of Wildlife (ICBPGW)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Chemical and Biochemical Engineering (ICCBE)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Civil and Environmental Engineering (ICCEE)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference On Electrical and Electronics Engineering (ICEEE)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Economics Finance and Accounting (ICEFA)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Human Rights (ICHR)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference On Mechanical and Aerospace Engineering (ICMAE)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Multidisciplinary Research & Practice (ICMRP)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference On Pharma and Food (ICPAF)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Sports Nutrition and Supplements (ICSNS)",
+    "date": "15 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1626th International Conference on Science, Technology, Engineering and Management (ICSTEM)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1820th International Conference on Advances in Business Management and Information Technology (ICABMIT)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1809th IIER International Conference on Applied Physics and Mathematics (ICAPM)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1808th International Conferenceon Chemical and Biochemical Engineering (ICCBE)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1709th International Conference on Law and Political Science (ICLPS)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1817th International Conference on Natural Science and Environment (ICNSE)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1735th International Conference on Psychology, Language and Teaching (ICPLT)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1811th International Conference on Recent Advances in Medical Science (ICRAMS)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1816th International Conference on Recent Innovations in Engineering and Technology (ICRIET)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1804th International Conference on Science, Innovation and Management (ICSIM)",
+    "date": "29 Jun",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1816th International Conference on Social Science and Economics (ICSSE)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1720th International Conference on Mining, Material, and Metallurgical Engineering (ICMMME)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1785th International Conference on Recent Advances in Medical and Health Sciences (ICRAMHS)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1781st International Conference on Science, Social Science and Economics (IC3SE)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1677th International Conference on Language, Literature and Culture (ICLLC)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1781st International Conference on Environmental Science and Development (ICESD)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1785th International Conference on Management and Information Technology (ICMIT)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1777th International Conference on Artificial Intelligence and Soft Computing (ICAISC)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1777th International Conference on Nanoscience, Nanotechnology and Advanced Materials (IC2NM)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1781st International Academic Conference on Development in Science and Technology (IACDST)",
+    "date": "15 Jul",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1777th International Academic Conference on Engineering, Technology and Innovations (IACDST)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Behaviour Physiology and Genetics of Wildlife (ICBPGW)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Chemical and Biochemical Engineering (ICCBE)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Civil and Environmental Engineering (ICCEE)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference On Electrical and Electronics Engineering (ICEEE)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Economics Finance and Accounting (ICEFA)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Human Rights (ICHR)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference On Mechanical and Aerospace Engineering (ICMAE)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Multidisciplinary Research & Practice (ICMRP)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference On Pharma and Food (ICPAF)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Sports Nutrition and Supplements (ICSNS)",
+    "date": "29 Aug",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "1671st International Conference on Science, Technology, Engineering and Management (ICSTEM)",
+    "date": "01 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical, Biological and Pharmaceutical Sciences (ICMBPS)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Green Energy and Technology (ICGET)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International conference on Law and Society (ICLS)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Robotics and Smart Manufacturing (ICROSMA)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Advanced Energy Materials and Research (ICAEMR)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Science, Engineering & Technology (ICSET)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Management, Economics & Social Science (ICMESS)",
+    "date": "15 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Medical & Health Science (ICMHS)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Environmental Science and Development (ICESD)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Language, Literature and Culture (ICLLC)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Management and Information Technology (ICMIT)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Mining, Material, and Metallurgical Engineering (ICMMME)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Recent Advances in Medical and Health Sciences (ICRAMHS)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Science, Social Science and Economics (IC3SE)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Artificial Intelligence and Soft Computing (ICAISC)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Conference on Nanoscience, Nanotechnology and Advanced Materials (IC2NM)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Engineering, Technology and Innovations (IACETI)",
+    "date": "29 Sep",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "International Academic Conference on Development in Science and Technology (IACDST)",
+    "date": "Date not available",
+    "location": "New Delhi, India"
   }
 ]
