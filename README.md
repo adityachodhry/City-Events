@@ -1,3 +1,3 @@
 ﻿# City-Events
-These all data are all city and for one year events data.
-So, using the API i scrap the all Events and all Conferences in india
+These all are multiple city and multiple we site events data.
+So, I'm using the API for scrap the all Events and all Conferences in india
