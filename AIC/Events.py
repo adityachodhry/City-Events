@@ -13,7 +13,6 @@ for page_no in range(1, page_no + 1):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
 
-
         event_elements = soup.find_all(class_='confer-featur-top')
 
         for event in event_elements:
@@ -30,15 +29,13 @@ for page_no in range(1, page_no + 1):
             event_name_element = event.find('span', itemprop='name')
             event_name = event_name_element.text if event_name_element else None
 
-            # Store the extracted data in a dictionary
             event_info = {
+                'eventId': int(event_id),
                 'date': date,
                 'location': location,
-                'eventId': event_id,
                 'eventName': event_name
             }
 
-            # Append the dictionary to the list
             event_data.append(event_info)
         
         print(f"Page {page_no} data extracted.")

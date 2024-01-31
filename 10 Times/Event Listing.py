@@ -4,6 +4,9 @@ import json
 event_data = []
 
 headers = {
+    "Connection": "keep-alive",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
     "X-Requested-With": "XMLHttpRequest"
 }
 api_url = "https://10times.com/ajax?for=event_listing_new&ajax=1&new=1&sortType=asc&sortBy=endDate&only=allindustry&entityurl=1"
